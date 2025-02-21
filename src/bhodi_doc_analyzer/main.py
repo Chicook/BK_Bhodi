@@ -1,3 +1,6 @@
+import utils.http_session
+import utils.transport
+import utils.session
 from bhodi_doc_analyzer.assistant import ChatApp
 
 def main_menu():

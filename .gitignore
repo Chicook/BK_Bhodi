@@ -6,3 +6,5 @@ data_to_vector/
 assistant_logs.txt
 src/bhodi_doc_analyzer.egg-info/
 uv.lock
+config.bat
+node_modules
